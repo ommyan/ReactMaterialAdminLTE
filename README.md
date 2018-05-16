@@ -1,9 +1,4 @@
-# React boilerplate
-
-For detailed info
-please read the blog where I have discussed this in details.
-
-https://medium.com/@ankitsharma6466/building-react-app-part-2-architecture-boilerplate-683b992089a6
+# Integrating React boilerplate with MaterialAdminLTE template
 
 ## Quick Steps
 
@@ -26,4 +21,4 @@ yarn generate orders -r myorders
 
 *NOTE: route name is optional, if not specified then route with same name as component will be created*
 # ReactMaterialAdminLTE
-# ReactMaterialAdminLTE
+# 
