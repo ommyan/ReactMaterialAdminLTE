@@ -1,4 +1,4 @@
-# Integrating React boilerplate with MaterialAdminLTE template
+# Integrating React boilerplate to MaterialAdminLTE template
 # 
 react boilerplate from https://github.com/ankitsharma6466/ankitsharma6466.github.io.git
 and material admin template from https://github.com/DucThanhNguyen/MaterialAdminLTE.git
